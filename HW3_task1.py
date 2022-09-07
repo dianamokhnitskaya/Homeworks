@@ -7,4 +7,4 @@ toshiba_employees = ["Tomas Loyd", "Veronica Bill",
                      "Sam Brown", "Amanda Stainback"]
 toshiba_employees.extend(eleks_employees)
 
-print("List of Toshiba employees after Eleks takeover:" + str(toshiba_employees))
+print("List of Toshiba employees after Eleks takeover:" + format(str(toshiba_employees)))
